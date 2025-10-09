@@ -1,0 +1,62 @@
+{
+  "tim0": {
+    "color": "red",
+    "fill_color": "red",
+    "position": {
+      "x": 100.0,
+      "y": 0.0
+    },
+    "heading": 0.0,
+    "pen_down": false,
+    "visible": true,
+    "speed": 3
+  },
+  "tim1": {
+    "color": "red",
+    "fill_color": "red",
+    "position": {
+      "x": 50.0,
+      "y": 1.3322676295501878e-15
+    },
+    "heading": 0.0,
+    "pen_down": false,
+    "visible": true,
+    "speed": 3
+  },
+  "tim2": {
+    "color": "red",
+    "fill_color": "red",
+    "position": {
+      "x": 100,
+      "y": 0
+    },
+    "heading": 0.0,
+    "pen_down": false,
+    "visible": true,
+    "speed": 3
+  },
+  "tim3": {
+    "color": "red",
+    "fill_color": "red",
+    "position": {
+      "x": 150,
+      "y": 0
+    },
+    "heading": 0.0,
+    "pen_down": false,
+    "visible": true,
+    "speed": 3
+  },
+  "tim4": {
+    "color": "red",
+    "fill_color": "red",
+    "position": {
+      "x": 200,
+      "y": 0
+    },
+    "heading": 0.0,
+    "pen_down": false,
+    "visible": true,
+    "speed": 3
+  }
+}
