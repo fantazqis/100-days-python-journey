@@ -23,8 +23,8 @@ data = pandas.read_csv("weather_data.csv")
 
 # print(data[data.temp == data.temp.max()])
 
-monday = data[data.day == "Monday"]
-temp = monday.temp[0]
+monday = data[data.day == "Sunday"]
+temp = monday.temp
 
 print(temp)
 
